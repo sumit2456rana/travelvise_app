@@ -4,24 +4,30 @@
     padding: 0.8rem 1.6rem;
     font-family: inherit;
     font-size: 1.5rem;
+    border: none;
     border-radius: 5px;
     cursor: pointer;
-    border: none;
-}
-
-.primary {
+  }
+  
+  .primary {
     font-weight: 700;
     background-color: var(--color-brand--2);
     color: var(--color-dark--1);
-}
-
-.back {
+  }
+  
+  .back {
     font-weight: 600;
     background: none;
     border: 1px solid currentColor;
-}
-
-.position {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .back > svg {
+    font-size: 2rem;
+  }
+  .position {
     font-weight: 700;
     position: absolute;
     z-index: 1000;
@@ -32,4 +38,4 @@
     background-color: var(--color-brand--2);
     color: var(--color-dark--1);
     box-shadow: 0 0.4rem 1.2rem rgba(36, 42, 46, 0.16);
-}
+  }

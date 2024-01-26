@@ -1,28 +1,148 @@
 {
   "cities": [
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "",
-      "date": "2027-07-15T08:22:53.9762",
+      "cityName": "Maromby",
+      "country": "Madagascar",
+      "date": "2024-01-25T15:45:19.356Z",
+      "emoji": "🇲🇬",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "-24.5271348225978",
+        "lng": "46.64794921875001"
       },
-      "id": 17806751
+      "id": 98443219
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "",
-      "date": "2027-02-12T09:24:11.8632",
-      "notes": "Amazing",
+      "cityName": "Africa/Maputo",
+      "country": "Mozambique",
+      "date": "2024-01-25T15:45:23.426Z",
+      "emoji": "🇲🇿",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "-22.553147478403194",
+        "lng": "35.59570312500001"
       },
-      "id": 98443197
+      "id": 98443220
+    },
+    {
+      "cityName": "Funhalouro",
+      "country": "Mozambique",
+      "date": "2024-01-25T15:46:01.822Z",
+      "emoji": "🇲🇿",
+      "notes": "",
+      "position": {
+        "lat": "-23.301901124188877",
+        "lng": "34.61791992187501"
+      },
+      "id": 98443221
+    },
+    {
+      "cityName": "Funhalouro",
+      "country": "Mozambique",
+      "date": "2024-01-25T15:46:11.890Z",
+      "emoji": "🇲🇿",
+      "notes": "",
+      "position": {
+        "lat": "-23.579091596182877",
+        "lng": "34.58496093750001"
+      },
+      "id": 98443222
+    },
+    {
+      "cityName": "Funhalouro",
+      "country": "Mozambique",
+      "date": "2024-01-25T15:46:16.463Z",
+      "emoji": "🇲🇿",
+      "notes": "",
+      "position": {
+        "lat": "-23.40276490540795",
+        "lng": "33.99719238281251"
+      },
+      "id": 98443223
+    },
+    {
+      "cityName": "Panda",
+      "country": "Mozambique",
+      "date": "2024-01-25T15:46:20.917Z",
+      "emoji": "🇲🇿",
+      "notes": "",
+      "position": {
+        "lat": "-24.302046975036557",
+        "lng": "34.66186523437501"
+      },
+      "id": 98443224
+    },
+    {
+      "cityName": "Mabalane",
+      "country": "Mozambique",
+      "date": "2024-01-25T15:46:24.996Z",
+      "emoji": "🇲🇿",
+      "notes": "",
+      "position": {
+        "lat": "-23.890860299280366",
+        "lng": "33.03039550781251"
+      },
+      "id": 98443225
+    },
+    {
+      "cityName": "Mungeranie",
+      "country": "Australia",
+      "date": "2024-01-25T15:47:46.412Z",
+      "emoji": "🇦🇺",
+      "notes": "",
+      "position": {
+        "lat": "-27.527758206861897",
+        "lng": "139.74609375000003"
+      },
+      "id": 98443227
+    },
+    {
+      "cityName": "Antarctica/Syowa",
+      "country": "Antarctica",
+      "date": "2024-01-25T15:48:25.848Z",
+      "emoji": "🇦🇶",
+      "notes": "",
+      "position": {
+        "lat": "-72.71190310803662",
+        "lng": "25.664062500000004"
+      },
+      "id": 98443228
+    },
+    {
+      "cityName": "Yeste",
+      "country": "Spain",
+      "date": "2024-01-25T16:01:03.729Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "38.34165619279595",
+        "lng": "-2.2192382812500004"
+      },
+      "id": 98443229
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "date": "2024-01-26T10:57:48.361Z",
+      "emoji": "🇪🇸",
+      "notes": "Very cool\n",
+      "position": {
+        "lat": "40.40094763151963",
+        "lng": "-3.6749267578125004"
+      },
+      "id": 98443230
+    },
+    {
+      "cityName": "Hazaribagh",
+      "country": "India",
+      "date": "2024-01-26T10:58:46.721Z",
+      "emoji": "🇮🇳",
+      "notes": "wdsds",
+      "position": {
+        "lat": "23.996289790628417",
+        "lng": "85.440673828125"
+      },
+      "id": 98443231
     }
   ]
 }

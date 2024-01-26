@@ -3,7 +3,7 @@ const AuthContext = createContext();
 
 const USERS = [
     {
-        name: 'abc',
+        name: 'Jhon Doe',
         email: 'abc@gmail.com',
         password: 'abc',
         avatar: 'https://i.pravatar.cc/100?u=zz',
